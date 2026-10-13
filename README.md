@@ -2,7 +2,7 @@
 A primary research-based analysis of Lenskart’s consumer behaviour, digital marketing, and omnichannel customer experience using survey data from 85 respondents and field observations across four retail stores.
 ### Consumer Behaviour & Digital Marketing Analysis of Lenskart
 
-**Category:** Academic Project | Consumer Research | Digital Marketing
+**Category:** Consumer Research | Digital Marketing
 
 As part of the Corporate Mentorship Programme at FIIB, I conducted a study examining how digital touchpoints and in-store experiences influence consumer behaviour at Lenskart.
 
